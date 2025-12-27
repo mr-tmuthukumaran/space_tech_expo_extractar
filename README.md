@@ -34,4 +34,11 @@ A Playwright-based Python web scraper that extracts exhibitor data from
 
 ```bash
 pip install -r requirements.txt
+playwright install
+```
 
+### 2️⃣ Run the Scraper
+
+```bash
+python spacetechexpo_scrap.py
+```
